@@ -32,7 +32,7 @@ The following objectives were accomplished in this analysis:
 
 The Tidyverse package in R was used to clean and reshape the datasets as well as provide the linear model function and summary methods needed within R to accomplish the statistical summaries annotated within this analysis.
 
-Below are the statistical summary tables for the total manufacturing lots and for the entire dataset. 
+Below is the statistical summary table for the entire dataset:
 
 ![](Resources/total_summary.jpg)
 
